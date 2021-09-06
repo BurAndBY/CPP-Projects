@@ -9,8 +9,8 @@ int main()
 {
    double AI_Var;
    cout << "You wake up in a cell, next to it is a toilet, a table, a radio tuned to an incomprehensible frequency, and some kind of strange thing. After 5 seconds a blue oval appears in it. What are you going to do?" <<endl;
-   cout << "1 - Пройти в синий овал"<< endl;
-   cout << "0 - Прислушаться"<< endl;
+   cout << "1 - Go through the blue portal"<< endl;
+   cout << "0 - Listen"<< endl;
    cin  >> AI_Var;
    if (AI_Var == 0)
    {
